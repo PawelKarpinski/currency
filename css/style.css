@@ -1,0 +1,17 @@
+html {
+    box-sizing: border-box; 
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+body {
+font-family: 'montstsrttat alernates', sans-serif;
+background-image: url("../images/money-background.jpg");
+background-position: center;  
+background-attachment: fixed;
+resize: both;
+overflow: auto;
+
+}
